@@ -6,7 +6,7 @@ Aqui iremos explicar como realizar os testes de exposição das resinas **Smooth
 
 Você deve baixar o arquivo de calibração [ calibraçãoSmooth3D.stl ] e ajustar os tempos de exposição em seu software fatiador de acordo com a tabela no link abaixo:
 
-
+:blue_book: [Tabela de tempos de exposição](https://github.com/Smooth3DResinas/testeExposicaoUnica/blob/main/readme/CatalogoResinasSmooth3D.pdf)
 
 # Impressoras Compatíveis:
 
