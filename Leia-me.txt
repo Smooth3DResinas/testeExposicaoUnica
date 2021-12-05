@@ -1,0 +1,8 @@
+Como imprimir:
+Você deve navegar até a pasta relacionada ao modelo de sua impressora e copiar para o pendrive o arquivo relacionado a resina que você quer utilizar, por exemplo:
+
+elegooMars2Pro_Resina4K.ctb
+elegooMars2Pro_ResinaModelismo.ctb
+elegooMars2Pro_ResinaPadrão.ctb
+
+Após o arquivo ser copiado para o pendrive, deve ser realizado o processo padrão para iniciar a impressão.
