@@ -1,6 +1,10 @@
 # Testes de exposição de resinas
 
-Aqui iremos explicar como realizar os testes de exposição das resinas **Smooth3D** utilizando os arquivos de pré formatados.
+Aqui iremos explicar como realizar os testes de exposição das resinas **Smooth3D** utilizando o arquivo padrão de calibração.
+
+<p align="center">
+  <img src="https://github.com/Smooth3DResinas/testeExposicaoUnica/blob/main/readme/calibration.png" />
+</p>
 
 # Como imprimir:
 
