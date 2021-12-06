@@ -55,7 +55,7 @@ Você deve baixar o arquivo de calibração [calibraçãoSmooth3D.stl](https://g
 
 ![alt text](https://github.com/Smooth3DResinas/calibracao/blob/main/readme/exemplo.jpg?raw=true)
 
-## Outros problemas de impressão:
+## Soluções para problemas de impressão
 
 | PROBLEMA                                                                                           | CAUSAS                                       | SOLUÇÕES                                                     |
 | -------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------ |
