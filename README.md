@@ -35,6 +35,10 @@ Você deve baixar o arquivo de calibração [calibraçãoSmooth3D.stl](https://g
 3. Os menores recursos estão faltando (é muito difícil curar um único pixel sem sobre exposição).
 4. No geral, parece nítido e preciso.
 
+## Resolução de problemas:
+
+Caso você não tenha conseguido imprimir o arquivo de calibração recomendamos que leia nosso tópico sobre [resolução de problemas.](https://github.com/Smooth3DResinas/Resolucoes)
+
 # Exemplos:
 
 ### Espirais:
@@ -56,16 +60,3 @@ Você deve baixar o arquivo de calibração [calibraçãoSmooth3D.stl](https://g
 ## Amostra:
 
 ![alt text](https://github.com/Smooth3DResinas/calibracao/blob/main/readme/exemplo.jpg?raw=true)
-
-## Soluções para problemas de impressão:
-
-| PROBLEMA                                                                                           | CAUSAS                                       | SOLUÇÕES                                                     |
-| -------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------ |
-| A peça não aderiu a base de impressão e ficou uma placa no fundo do tanque de resina.              | Nivelamento da mesa de impressão.            | Repetir/Revisar o processo de nivelamento da mesa            |
-|                                                                                                    | Tempo de exposição das camadas de base baixo | Aumentar o tempo de exposição das camadas de base            |
-|                                                                                                    | Base de impressão com pouca aderência        | Lixar a base de impressão com lixa 80 para metais            |
-| Uma parte da peça aderiu a base de impressão e a outra parte ficou no fundo do tanque de impressão | Tempo de exposição das camadas normais baixo | Aumentar o tempo de exposição das camadas de base            |
-|                                                                                                    | Configuração inadequada de suportes          | Revisar o posicionamento da peça e a configuração de suporte |
-|                                                                                                    | Velocidade de elevação da mesa de impressão  | Diminuir a velocidade de elevação da mesa de impressão       |
-| A peça aderiu a base de impressão e ficou muito difícil de removê-la                               | Tempo de exposição das camadas de base alto  | Diminuir o tempo de exposição das camadas de base.           |
-
