@@ -12,6 +12,20 @@ Você deve baixar o arquivo de calibração [calibraçãoSmooth3D.stl](https://g
 
 :blue_book: [Tabela de tempos de exposição](https://github.com/Smooth3DResinas/testeExposicaoUnica/blob/main/readme/CatalogoResinasSmooth3D.pdf)
 
+# Tabela de exposição UV:
+
+| Resina          | Tempo camadas de base | Tempo camadas normais | Tempo camadas de base | Tempo camadas normais |
+| --------------- | --------------------- | --------------------- | --------------------- | --------------------- |
+| Padrão          | 20s                   | 2.5s                  | 100s                  | 5s                    |
+| Bow             | 15s                   | 1.2s                  | 60s                   | 2.5s                  |
+| Action          | 15s                   | 1.7s                  | 80s                   | 5s                    |
+| 4k              | 15s                   | 1.3s                  | 80s                   | 4s                    |
+| Modelismo       | 15s                   | 1.5s                  | 80s                   | 5s                    |
+| D20             | 20s                   | 2s                    | 80s                   | 6s                    |
+| ART ABS Like    | 15s                   | 1.3s                  | 80s                   | 4s                    |
+| Semi-Flexível   | 15s                   | 1.5s                  | 80s                   | 5s                    |
+| IMPACT Robótica | 10s                   | 1s                    | 60s                   | 2.5s                  |
+
 # Analisando os resultados:
 
 
