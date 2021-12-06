@@ -6,14 +6,7 @@ Aqui iremos explicar como realizar os testes de exposição das resinas **Smooth
 
 Você deve baixar o arquivo de calibração [ calibraçãoSmooth3D.stl ] e ajustar os tempos de exposição em seu software fatiador de acordo com a tabela no link abaixo:
 
-
-
-# Impressoras Compatíveis:
-
-- ELEGOO MARS 2 PRO [ctb]
-- QIDI Shadow5.5s [ctb]
-- Anycubic Photon S [pws]
-- Phrozen Sonic 4K [ctb]
+:blue_book: [Tabela de tempos de exposição](https://github.com/Smooth3DResinas/testeExposicaoUnica/blob/main/readme/CatalogoResinasSmooth3D.pdf)
 
 # Analisando os resultados:
 
