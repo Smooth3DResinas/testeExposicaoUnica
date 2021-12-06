@@ -27,7 +27,8 @@ Você deve baixar o arquivo de calibração [calibraçãoSmooth3D.stl](https://g
 1. Os recursos se expandirão e irão se sobrepor ao elemento vizinho mais próximo.
 2. Os menores recursos podem ser impressos (devido expansão e mais pixels curados).
 3. No geral, parecerá gordo e largo.
-4. Quando isso acontecer, diminua em aproximadamente 10% o tempo de exposição das camadas normais e refaça a impressão.  Repita o processo quantas vezes forem necessárias até chegar na configuração ideal.
+4. Quando isso acontecer, diminua em aproximadamente 10% o tempo de exposição das camadas normais e refaça a impressão.  
+5. Repita o processo quantas vezes forem necessárias até chegar na configuração ideal.
 
 ## Exposição Ideal:
 1. Os recursos parecem iguais em comparação com a visualização.
