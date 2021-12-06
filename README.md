@@ -15,12 +15,14 @@ Você deve baixar o arquivo de calibração [calibraçãoSmooth3D.stl](https://g
 # Analisando os resultados:
 
 
-## Sub Exposição:
+## Sub Exposição 
+* Ocorre quando o tempo de exposição a luz UV das camadas normais está abaixo do recomendado
 1. Os recursos encolherão criando algum espaçamento entre os elementos.
 2. Alguns elementos não serão impressos ou aparecerão falhados.
 3. No geral, os elementos vão parecer mais finos que o normal.
 
-## Sobre Exposição:
+## Sobre Exposição 
+* Ocorre quando o tempo de exposição a luz UV das camadas normais está acima do recomendado
 1. Os recursos se expandirão e irão se sobrepor ao elemento vizinho mais próximo.
 2. Os menores recursos podem ser impressos (devido expansão e mais pixels curados).
 3. No geral, parecerá gordo e largo.
