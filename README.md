@@ -16,16 +16,18 @@ Você deve baixar o arquivo de calibração [calibraçãoSmooth3D.stl](https://g
 
 
 ## Sub Exposição 
-* Ocorre quando o tempo de exposição a luz UV das camadas normais está abaixo do recomendado
+* Ocorre quando o tempo de exposição a luz UV das camadas normais está abaixo do recomendado.
 1. Os recursos encolherão criando algum espaçamento entre os elementos.
 2. Alguns elementos não serão impressos ou aparecerão falhados.
 3. No geral, os elementos vão parecer mais finos que o normal.
+4. Quando isso acontecer, aumente em aproximadamente 10% o tempo de exposição das camadas normais e refaça a impressão.  Repita o processo quantas vezes forem necessárias até chegar na configuração ideal.
 
 ## Sobre Exposição 
-* Ocorre quando o tempo de exposição a luz UV das camadas normais está acima do recomendado
+* Ocorre quando o tempo de exposição a luz UV das camadas normais está acima do recomendado.
 1. Os recursos se expandirão e irão se sobrepor ao elemento vizinho mais próximo.
 2. Os menores recursos podem ser impressos (devido expansão e mais pixels curados).
 3. No geral, parecerá gordo e largo.
+4. Quando isso acontecer, diminua em aproximadamente 10% o tempo de exposição das camadas normais e refaça a impressão.  Repita o processo quantas vezes forem necessárias até chegar na configuração ideal.
 
 ## Exposição Ideal:
 1. Os recursos parecem iguais em comparação com a visualização.
@@ -55,7 +57,7 @@ Você deve baixar o arquivo de calibração [calibraçãoSmooth3D.stl](https://g
 
 ![alt text](https://github.com/Smooth3DResinas/calibracao/blob/main/readme/exemplo.jpg?raw=true)
 
-## Soluções para problemas de impressão
+## Soluções para problemas de impressão:
 
 | PROBLEMA                                                                                           | CAUSAS                                       | SOLUÇÕES                                                     |
 | -------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------ |
