@@ -8,13 +8,6 @@ Você deve baixar o arquivo de calibração [ calibraçãoSmooth3D.stl ] e ajust
 
 :blue_book: [Tabela de tempos de exposição](https://github.com/Smooth3DResinas/testeExposicaoUnica/blob/main/readme/CatalogoResinasSmooth3D.pdf)
 
-# Impressoras Compatíveis:
-
-- ELEGOO MARS 2 PRO [ctb]
-- QIDI Shadow5.5s [ctb]
-- Anycubic Photon S [pws]
-- Phrozen Sonic 4K [ctb]
-
 # Analisando os resultados:
 
 
