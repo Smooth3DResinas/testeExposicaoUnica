@@ -26,7 +26,7 @@ Você deve baixar o arquivo de calibração [calibraçãoSmooth3D.stl](https://g
 
 # Analisando os resultados:
 
-#### Caso não obtenha o resultado esperado nos primeiro testes, repita o processo utilizando os novos tempos de exposição quantas vezes forem necessárias até chegar na configuração ideal.
+#### Caso não obtenha o resultado esperado no primeiro teste, repita o processo utilizando os novos tempos de exposição quantas vezes forem necessárias até chegar na configuração ideal.
 
 ## Sub Exposição 
 * Ocorre quando o tempo de exposição a luz UV das camadas normais está abaixo do recomendado.
