@@ -48,11 +48,11 @@ Você deve baixar o arquivo de calibração [calibraçãoSmooth3D.stl](https://g
 3. Os menores recursos estão faltando (é muito difícil curar um único pixel sem sobre exposição).
 4. No geral, parece nítido e preciso.
 
-## Exemplos:
+## Resolução de problemas:
 
-Caso você não tenha conseguido imprimir o arquivo de calibração recomendamos que leia nosso tópico sobre [resolução de problemas.](https://github.com/Smooth3DResinas/Resolucoes)
+Se não conseguiu imprimir o arquivo de calibração recomendamos que leia nosso tópico sobre [resolução de problemas.](https://github.com/Smooth3DResinas/Resolucoes)
 
-# Analisando os resultados:
+# Exemplos:
 
 ### Espirais:
 
