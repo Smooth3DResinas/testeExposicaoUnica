@@ -6,23 +6,23 @@ Aqui iremos explicar como realizar os testes de exposição das resinas **Smooth
   <img src="https://github.com/Smooth3DResinas/testeExposicaoUnica/blob/main/readme/calibration.png" />
 </p>
 
-# Como imprimir:
+## Como imprimir:
 
 Você deve baixar o arquivo de calibração [calibraçãoSmooth3D.stl](https://github.com/Smooth3DResinas/testeExposicaoUnica/raw/main/calibra%C3%A7%C3%A3oSmooth3D.stl) e ajustar os tempos de exposição em seu software fatiador de acordo com a tabela no link abaixo:
 
 # Referência de tempos de exposição:
 
-| Resina          | Tempo camadas de base | Tempo camadas normais | Tempo camadas de base | Tempo camadas normais |
-| --------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| Padrão          | 20s                   | 2.5s                  | 100s                  | 5s                    |
-| Bow             | 15s                   | 1.2s                  | 60s                   | 2.5s                  |
-| Action          | 15s                   | 1.7s                  | 80s                   | 5s                    |
-| 4k              | 15s                   | 1.3s                  | 80s                   | 4s                    |
-| Modelismo       | 15s                   | 1.5s                  | 80s                   | 5s                    |
-| D20             | 20s                   | 2s                    | 80s                   | 6s                    |
-| ART ABS Like    | 15s                   | 1.3s                  | 80s                   | 4s                    |
-| Semi-Flexível   | 15s                   | 1.5s                  | 80s                   | 5s                    |
-| IMPACT Robótica | 10s                   | 1s                    | 60s                   | 2.5s                  |
+| Resina          | Tempo camadas de base (MONO) | Tempo camadas normais (MONO) | Tempo camadas de base (RGB) | Tempo camadas normais (RGB) |
+| --------------- | ---------------------------- | ---------------------------- | --------------------------- | --------------------------- |
+| Padrão          | 20s                          | 2.5s                         | 100s                        | 5s                          |
+| Bow             | 15s                          | 1.2s                         | 60s                         | 2.5s                        |
+| Action          | 15s                          | 1.7s                         | 80s                         | 5s                          |
+| 4k              | 15s                          | 1.3s                         | 80s                         | 4s                          |
+| Modelismo       | 15s                          | 1.5s                         | 80s                         | 5s                          |
+| D20             | 20s                          | 2s                           | 80s                         | 6s                          |
+| ART ABS Like    | 15s                          | 1.3s                         | 80s                         | 4s                          |
+| Semi-Flexível   | 15s                          | 1.5s                         | 80s                         | 5s                          |
+| IMPACT Robótica | 10s                          | 1s                           | 60s                         | 2.5s                        |
 
 # Analisando os resultados:
 
