@@ -10,6 +10,8 @@ Aqui iremos explicar como realizar os testes de exposição das resinas **Smooth
 
 Você deve baixar o arquivo de calibração [calibraçãoSmooth3D.stl](https://github.com/Smooth3DResinas/testeExposicaoUnica/raw/main/calibra%C3%A7%C3%A3oSmooth3D.stl) e ajustar os tempos de exposição em seu software fatiador de acordo com a tabela abaixo:
 
+> Caso não obtenha o resultado esperado nos primeiro testes, repita o processo quantas vezes forem necessárias até chegar na configuração ideal.
+
 ## Referência de tempos de exposição:
 
 | Resina          | Tempo camadas de base (MONO) | Tempo camadas normais (MONO) | Tempo camadas de base (RGB) | Tempo camadas normais (RGB) |
@@ -33,7 +35,6 @@ Você deve baixar o arquivo de calibração [calibraçãoSmooth3D.stl](https://g
 2. Alguns elementos não serão impressos ou aparecerão falhados.
 3. No geral, os elementos vão parecer mais finos que o normal.
 4. Quando isso acontecer, aumente em aproximadamente 10% o tempo de exposição das camadas normais e refaça a impressão.  
-5. Repita o processo quantas vezes forem necessárias até chegar na configuração ideal.
 
 ## Sobre Exposição 
 * Ocorre quando o tempo de exposição a luz UV das camadas normais está acima do recomendado.
@@ -41,7 +42,6 @@ Você deve baixar o arquivo de calibração [calibraçãoSmooth3D.stl](https://g
 2. Os menores recursos podem ser impressos (devido expansão e mais pixels curados).
 3. No geral, parecerá gordo e largo.
 4. Quando isso acontecer, diminua em aproximadamente 10% o tempo de exposição das camadas normais e refaça a impressão.  
-5. Repita o processo quantas vezes forem necessárias até chegar na configuração ideal.
 
 ## Exposição Ideal:
 1. Os recursos parecem iguais em comparação com a visualização.
@@ -53,7 +53,7 @@ Você deve baixar o arquivo de calibração [calibraçãoSmooth3D.stl](https://g
 
 Caso você não tenha conseguido imprimir o arquivo de calibração recomendamos que leia nosso tópico sobre [resolução de problemas.](https://github.com/Smooth3DResinas/Resolucoes)
 
-# Exemplos:
+# Analisando os resultados:
 
 ### Espirais:
 
