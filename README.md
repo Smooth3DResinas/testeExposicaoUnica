@@ -10,7 +10,7 @@ Aqui iremos explicar como realizar os testes de exposição das resinas **Smooth
 
 Você deve baixar o arquivo de calibração [[ calibraçãoSmooth3D.stl ]](https://github.com/Smooth3DResinas/testeExposicaoUnica/raw/main/calibra%C3%A7%C3%A3oSmooth3D.stl) e ajustar os tempos de exposição em seu software fatiador de acordo com a tabela abaixo:
 
-## Referência de tempos de exposição:
+## Referência de tempos de exposição (Camada 0.05mm) :
 
 | Resina          | Tempo camadas de base (MONO) | Tempo camadas normais (MONO) | Tempo camadas de base (RGB) | Tempo camadas normais (RGB) |
 | --------------- | ---------------------------- | ---------------------------- | --------------------------- | --------------------------- |
